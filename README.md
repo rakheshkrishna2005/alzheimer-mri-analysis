@@ -7,7 +7,7 @@
 
 ## 📝 Description
 
-- Alzheimer’s Disease Classifier is a **computer vision application** that uses a **ResNet-50 model** to classify MRI images for Alzheimer's stages.
+- Alzheimer’s Disease Classifier is a **deep learning application** that uses a **ResNet-50 model** to classify MRI images for Alzheimer's stages.
 - Built with **Streamlit** for a user-friendly web interface, the app can classify multiple uploaded MRI images at once.
 - Provides **insights** and **treatment recommendations** based on classification.
 
