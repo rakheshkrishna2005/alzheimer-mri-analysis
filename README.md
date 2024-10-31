@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/61431b5c-40e0-40bb-9da2-961433438761
 
 ## 🚀 Features
 
-- 🖼️ **Multiple Image Upload** with easy preview option
+- 🖼️ **Multiple Image Upload** with uploaded info
 - 📊 Detailed **classification report** for each image
 - 🔍 **Four-class classification** for Alzheimer's stages
 - 💡 Comprehensive **treatment recommendations** for each stage
