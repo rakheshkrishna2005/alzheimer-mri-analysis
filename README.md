@@ -4,16 +4,11 @@
 > This project is my own work. No one is permitted to fork, use, or modify the code.  
 > Any unauthorized use, modification, or forking will result in a copyright takedown.
 
-
 ## 📝 Description
 
 - Alzheimer’s Disease Classifier is a **deep learning application** that uses a **ResNet-50 model** to classify MRI images for Alzheimer's stages.
 - Built with **Streamlit** for a user-friendly web interface, the app can classify multiple uploaded MRI images at once.
 - Provides **insights** and **treatment recommendations** based on classification.
-
-## 🎥 Demo Video
-
-[Demo Video Link](https://github.com/user-attachments/assets/61431b5c-40e0-40bb-9da2-961433438761)
 
 ## 🚀 Features
 
@@ -24,52 +19,14 @@
 
 ## 💻 Tech Stack
 
-- **Programming Language:** Python 🐍
-- **Web Framework:** Streamlit 🌐
-- **Deep Learning Framework:** PyTorch 🔥
-- **Leveraged Pre-trained Model:** ResNet-50 🦾
+- 🐍 **Programming Language:** Python
+- 🌐 **Web Framework:** Streamlit
+- 🔥 **Deep Learning Framework:** PyTorch
+- 🦾 **Leveraged Pre-trained Model:** ResNet-50
+  
+## 🎥 Demo Video
 
-## ⚙️ Installation and Usage
-
-Follow these steps to get the Alzheimer's Disease Classifier running on your machine:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/rakheshkrishna2005/alzheimer-mri-analysis.git
-   ```
-
-2. **Navigate to the Project Directory:**
-   ```bash
-   cd alzheimer-mri-analysis
-   ```
-
-3. **Create a virtual environment** (optional but recommended):
-   ```bash
-   python -m venv venv
-   ```
-
-4. **Activate the Virtual Environment:**
-
-   - On **Windows**:
-     ```bash
-     venv\Scripts\activate
-     ```
-   - On **macOS/Linux**:
-     ```bash
-     source venv/bin/activate
-     ```
-
-5. **Install the required dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-6. **Run the Streamlit app:**
-   ```bash
-   streamlit run app.py
-   ```
-
-7. **Access the app** by opening your web browser and navigating to `http://localhost:8501`.
+[Demo Video Link](https://github.com/user-attachments/assets/61431b5c-40e0-40bb-9da2-961433438761)
 
 ## 🌐 Web Interface
 
