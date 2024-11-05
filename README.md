@@ -1,8 +1,7 @@
 # 🧠 Alzheimer’s Disease Classifier - MRI Image Analysis
 
 > &copy; Rakhesh Krishna P. All rights reserved.  
-> This project is my own work. No one is permitted to fork, use, or modify the code.  
-> Any unauthorized use, modification, or forking will result in a copyright takedown.
+> This project should not be reproduced, distributed, or modified, without the prior permission.
 
 ## 📝 Description
 
