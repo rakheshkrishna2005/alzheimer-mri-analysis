@@ -1,7 +1,7 @@
 # 🧠 Alzheimer’s Disease Classifier - MRI Image Analysis
 
 > &copy; Rakhesh Krishna P. All rights reserved.  
-> This project should not be reproduced, distributed, or modified without the prior permission.
+> This project should not be forked, distributed, or modified without prior permission.
 
 ## 📝 Description
 
