@@ -5,10 +5,10 @@
 
 ## 📝 Description
 
+- Can classify dementia levels of 250 MRI scans in 1 minute.
 - Alzheimer's Disease Classifier is a **deep learning application** that uses a **ResNet-50 model** to classify MRI images for Alzheimer's stages.
 - Built with **Next.js** and **FastAPI** for a modern, responsive web interface that can classify multiple uploaded MRI images at once.
-- Provides **insights** and **treatment recommendations** based on classification.
-
+  
 ## 🚀 Features
 
 - 🖼️ **Multiple Image Upload** with uploaded info
@@ -32,15 +32,15 @@
 - 🔥 **Deep Learning Framework:** PyTorch
 - 🦾 **Leveraged Pre-trained Model:** ResNet-50
 
-## 🎥 Demo Video
+## 🎥 [Demo Video](https://github.com/rakheshkrishna2005/alzheimer-mri-analysis/blob/main/public/demo.mp4)
 
-[Demo Video Link]()
+https://github.com/user-attachments/assets/a7e3e45c-746d-489b-aa16-f79653a94cb6
 
 ## 🌐 Web Interface
 
-![upload]()
+![upload](https://github.com/rakheshkrishna2005/alzheimer-mri-analysis/blob/main/public/upload.png)
 
-![results]()
+![results](https://github.com/rakheshkrishna2005/alzheimer-mri-analysis/blob/main/public/result.png)
 
 ## 📚 Additional Resources
 
